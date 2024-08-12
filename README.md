@@ -1,2 +1,2 @@
 # DevTest
-[Medius Technologies Private Limited's assignment](https://aman0708.pythonanywhere.com/)
+[DevTest Project working link(click me)](https://aman0708.pythonanywhere.com/)
